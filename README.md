@@ -27,7 +27,7 @@ Ensure you have Python installed, then install the required dependencies:
 **📌 Usage**
 
 Run the script and follow the prompts to encode or decode a message.
-
+_____________________________________________________________________
 >python stegno.py
 _____________________________________________________________________
 **Encoding a Message**
@@ -39,6 +39,7 @@ _____________________________________________________________________
 **Decoding a Message**
 >Enter the encoded image filename (e.g., encoded.png).
 >The hidden message will be extracted and displayed.
+_____________________________________________________________________
 
 **⚠️ Notes**
 
